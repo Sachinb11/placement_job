@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870361479450",
+    "project_id": "jobsopedia-89506",
+    "storage_bucket": "jobsopedia-89506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870361479450:android:a6cd76af99ac2b939354a3",
+        "android_client_info": {
+          "package_name": "com.proj.jobsopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870361479450-4f7mk37kfb5np2g0brl47gjt4bff9lq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDqUi-C-wNocuClGkgyqq5HSjjJeNBkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870361479450-4f7mk37kfb5np2g0brl47gjt4bff9lq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

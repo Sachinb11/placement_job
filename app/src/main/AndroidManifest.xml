@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.proj.jobsopedia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Jobsopedia">
+        <activity android:name=".Model.Show_Details"></activity>
+        <activity
+            android:name=".homeContent.Cs_ITActivity"
+            android:parentActivityName=".homeContent.Home" />
+        <activity
+            android:name=".homeContent.ScienceActivity"
+            android:parentActivityName=".homeContent.Home" />
+        <activity
+            android:name=".homeContent.CommerceActivity"
+            android:parentActivityName=".homeContent.Home" />
+        <activity
+            android:name=".homeContent.ArtsActivity"
+            android:parentActivityName=".homeContent.Home" />
+        <activity android:name=".homeContent.Home" />
+        <activity android:name=".Login.Register" />
+        <activity android:name=".Login.Login_Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".homeContent.HelpDesk"></activity>
+        <activity android:name=".homeContent.AboutUs"></activity>
+    </application>
+
+</manifest>

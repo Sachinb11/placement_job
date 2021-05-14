@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jobsopedia</string>
+    <string name="cs_it">CS/IT</string>
+    <string name="slogon">Its time to start living the life<br/>we have imagined</string>
+    <string name="science">SCIENCE</string>
+    <string name="arts">ARTS</string>
+    <string name="commerce">COMMERCE</string>
+    <string name="title">Placement</string>
+    <string name="info">This application will help job seeker to find latest vacancies easily
+This application will help then in such a way
+that they dont need rely an other source</string>
+
+
+
+</resources>

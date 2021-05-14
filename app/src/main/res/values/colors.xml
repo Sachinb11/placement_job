@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="lightgray">#A1A1A1</color>
+    <color name="darkgray">#838383</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3EC3B5</color>
+    <color name="colorPrimaryDark">#169587</color>
+    <color name="colorAccent">#169587</color>
+    <color name="pink">#c579d8</color>
+    <color name="light_font">#5b5860</color>
+    <color name="grey_font">#7f4fb1</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#f62222</color>
+    <color name="colorPrimarylight">#99EFE5</color>
+    <color name="colorPrimarylight2">#A1C1BD</color>
+    <color name="colorPrimarydark1">#1AA89A</color>
+
+    <color name="colorgreem">#168510</color>
+    <color name="colorblack">#000000</color>
+    <color name="colorblue">#99ADF3</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colordarkblue">#567BEC</color>
+    <color name="colordarkestblue">#2C42B4</color>
+    <color name="colorgray">#616060</color>
+    <color name="colorAccent1">#060A46</color>
+    <color name="gradStart">#19AA8B</color>
+
+</resources>
